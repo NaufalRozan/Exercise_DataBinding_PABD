@@ -1,0 +1,14 @@
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\bin\Debug\Exercise_DataBinding.exe.config
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\bin\Debug\Exercise_DataBinding.exe
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\bin\Debug\Exercise_DataBinding.pdb
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\obj\Debug\Exercise_DataBinding.csproj.AssemblyReference.cache
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\obj\Debug\Exercise_DataBinding.Form1.resources
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\obj\Debug\Exercise_DataBinding.Form2.resources
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\obj\Debug\Exercise_DataBinding.Properties.Resources.resources
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\obj\Debug\Exercise_DataBinding.csproj.GenerateResource.cache
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\obj\Debug\Exercise_DataBinding.csproj.CoreCompileInputs.cache
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\obj\Debug\Exercise_DataBinding.exe
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\obj\Debug\Exercise_DataBinding.pdb
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\obj\Debug\Exercise_DataBinding.Form3.resources
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\obj\Debug\Exercise_DataBinding.Form4.resources
+C:\Folder D\Kuliah\PABD\Viscode\Exercise_DataBinding\Exercise_DataBinding\obj\Debug\Exercise_DataBinding.Form5.resources
